@@ -1,29 +1,39 @@
 # h296025733-sys
 
-我关注 AI 应用落地、自动化流程、工具集成、通信行业信息处理与运维提效方向。
+我做的项目大多从具体工作里的重复操作开始：整理视频素材、查看店铺数据、连接聊天与本地工具，再把这些步骤做成别人能理解和使用的应用。
 
-目前主要做过两个实用型项目：
+最近主要在做 AI 影像创作、跨境电商数据与浏览器工具，也继续保留通信行业信息筛选和 Windows 本地自动化方面的项目。
 
-## telecom-bid-scout-lite
+## 可以先看这些
 
-通信行业招采线索筛选与飞书推送工具。
+| 项目 | 做了什么 | 主要技术 |
+| --- | --- | --- |
+| [镜序 · AI 影像创作台](https://github.com/h296025733-sys/jingxu-director-workbench) | 把素材、创作规划、自动剪辑和交付管理放进同一个工作台；处理多人任务队列、权限与失败恢复。 | TypeScript / Next.js / Python |
+| [飞书经营数据助手](https://github.com/h296025733-sys/feishu-data-assistant) | 在群聊中查询与更新经营数据。模型理解问题，统计、去重和更新规则由代码执行。 | TypeScript / 飞书 / 多租户 |
+| [TikTok 达人内容分析](https://github.com/h296025733-sys/tiktok-creator-intelligence) | 从公开视频与证据整理商业内容信号，保留评分理由、失败恢复和缺失信息。 | Python / CLI / Codex skill |
+| [Auto Video Lab](https://github.com/h296025733-sys/codex-auto-video-lab) | 本地媒体分析、编辑计划、FFmpeg 渲染和质量检查，也是镜序的媒体处理基础。 | Python / FFmpeg |
+| [商品素材助手](https://github.com/h296025733-sys/amazon-tiktok-shop-media-downloader) | 从商品页提取当前 SKU 图片、视频与规格信息，按分类预览和批量下载。 | JavaScript / Manifest V3 |
 
-它把候选公告处理拆成 CSV 接入、YAML 规则评分、可解释判断、Markdown 报告、飞书推送和状态去重流程，用于辅助判断线索是否值得继续人工跟进。
+## 其他工具与应用
 
-## openclaw-local-bootstrap-lite
+| 项目 | 用途 |
+| --- | --- |
+| [Seedance 视频导演工作台](https://github.com/h296025733-sys/seedance-director-workbench) | 参考视频证据、分镜、素材职责与平台执行包。 |
+| [TikTok Shop 只读数据管线](https://github.com/h296025733-sys/tiktok-shop-data-pipeline) | 端点白名单、请求签名、数据接入、订单归因与能力状态。 |
+| [轻存 · TikTok 下载器](https://github.com/h296025733-sys/qingcun-tiktok-downloader) | Windows 桌面下载队列、目录管理、代理与逐项失败处理。 |
+| [抖音下载与口播字幕](https://github.com/h296025733-sys/douyin-download-subtitles) | 平台视频与字幕提取、预览及 SRT 导出。 |
+| [微信 ↔ Codex 文字聊天桥](https://github.com/h296025733-sys/wechat-codex-bridge) | 可分享的安装、授权、启动和排错脚本模板。 |
 
-面向 Windows PowerShell 的 OpenClaw 本地诊断与启动辅助工具。
 
-用于检查本机环境、OpenClaw CLI、Gateway、Provider、搜索配置、代理和飞书相关配置，并生成可复核的诊断报告。
+## 更早的项目
 
-## 我的定位
+- [telecom-bid-scout-lite](https://github.com/h296025733-sys/telecom-bid-scout-lite)：通信招采线索接入、规则评分、可解释报告与飞书通知。
+- [openclaw-local-bootstrap-lite](https://github.com/h296025733-sys/openclaw-local-bootstrap-lite)：Windows 下的 OpenClaw 环境诊断与启动辅助。
+- [ai-xhs-video-workflow-mvp](https://github.com/h296025733-sys/ai-xhs-video-workflow-mvp)：短视频采集、BGM 替换与自动化调度工作流 MVP。
+- [my-crypto-tool](https://github.com/h296025733-sys/my-crypto-tool)：早期网页小工具。
 
-我的优势不是深算法或重型后端，而是把业务问题拆成可执行流程，用 AI 工具、脚本和自动化方式提升信息处理效率。
+## 我在意的事
 
-我更适合的方向包括：
+我习惯先把业务步骤和失败条件理清楚，再决定哪里适合用模型，哪里应该交给确定的规则。处理多人、多账号或多店铺时，权限、数据范围和恢复过程也是功能的一部分。
 
-- AI 工具落地
-- 自动化流程搭建
-- 业务数据处理
-- 技术支持与工具化提效
-- 通信行业信息筛选与运维辅助
+近期公开整理的仓库分别写了运行入口和检查范围。需要账号、模型或企业配置的项目，使用者准备自己的环境；演示页面和模型输出各自有明确的使用范围。
