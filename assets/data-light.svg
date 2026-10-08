@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260" role="img" aria-labelledby="title desc">
+  <title id="title">DATA ASSISTANT project illustration</title>
+  <desc id="desc">Symbolic structure illustration, not an application screenshot.</desc>
+  <rect width="1040" height="260" rx="20" fill="#f4f2ed" />
+  <g fill="#192b35" font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="52" font-size="14" letter-spacing="2" fill="#566873">02 / SELECTED WORK</text>
+    <text x="40" y="139" font-size="44" font-weight="700" letter-spacing="1">DATA ASSISTANT</text>
+    <text x="42" y="179" font-size="16" letter-spacing="3" fill="#566873">DATA &amp; WORKFLOWS</text>
+  </g>
+  <path d="M40 78H502M40 211H116" stroke="#d6dcdf" stroke-width="2" fill="none" />
+  <g stroke="#d6dcdf" stroke-width="2" transform="translate(553,-6) scale(.9)">
+    <rect x="28" y="82" width="220" height="158" rx="9" fill="#ffffff" />
+    <path d="M28 122H248M28 160H248M28 198H248M80 122V240M171 122V240" fill="none" />
+    <rect x="43" y="97" width="105" height="8" rx="4" fill="#192b35" stroke="none" />
+    <rect x="97" y="136" width="58" height="11" rx="3" fill="#355cbe" stroke="none" />
+    <rect x="186" y="174" width="46" height="11" rx="3" fill="#355cbe" stroke="none" />
+    <rect x="97" y="212" width="58" height="11" rx="3" fill="#355cbe" opacity=".45" stroke="none" />
+    <path d="M248 141H293V105H327M293 141V191H327" stroke="#566873" fill="none" />
+    <rect x="327" y="82" width="125" height="46" rx="8" fill="#192b35" stroke="none" />
+    <path d="M345 106H371M378 106H407M414 106H433" stroke="#f4f2ed" stroke-width="3" fill="none" />
+    <rect x="327" y="168" width="125" height="46" rx="8" fill="#355cbe" stroke="none" />
+    <path d="M346 190L354 198L368 184M383 191H433" stroke="#f4f2ed" stroke-width="3" fill="none" />
+    <path d="M389 214V245H271V222H248" fill="none" stroke="#566873" stroke-dasharray="5 5" />
+    <path d="M258 216L248 222L258 228" fill="none" stroke="#566873" />
+  </g>
+</svg>

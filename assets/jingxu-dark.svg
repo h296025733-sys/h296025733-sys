@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260" role="img" aria-labelledby="title desc">
+  <title id="title">JINGXU project illustration</title>
+  <desc id="desc">Symbolic structure illustration, not an application screenshot.</desc>
+  <rect width="1040" height="260" rx="20" fill="#171e2b" />
+  <g fill="#eff3f6" font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="52" font-size="14" letter-spacing="2" fill="#a8b7c7">01 / SELECTED WORK</text>
+    <text x="40" y="139" font-size="44" font-weight="700" letter-spacing="1">JINGXU</text>
+    <text x="42" y="179" font-size="16" letter-spacing="3" fill="#a8b7c7">MEDIA &amp; PIPELINES</text>
+  </g>
+  <path d="M40 78H502M40 211H116" stroke="#354256" stroke-width="2" fill="none" />
+  <g stroke="#354256" stroke-width="2" transform="translate(553,-6) scale(.9)">
+    <rect x="28" y="82" width="286" height="116" rx="10" fill="#eff3f6" stroke="none" />
+    <rect x="44" y="98" width="74" height="76" rx="3" fill="#a4b7ff" stroke="none" />
+    <rect x="134" y="98" width="74" height="76" rx="3" fill="#171e2b" stroke="none" />
+    <rect x="224" y="98" width="74" height="76" rx="3" fill="#a4b7ff" opacity=".5" stroke="none" />
+    <path d="M71 118L92 136L71 154Z" fill="#171e2b" stroke="none" />
+    <path d="M149 155L164 131L178 144L192 124V160H149Z" fill="#a8b7c7" stroke="none" />
+    <path d="M244 133H278M261 116V151" stroke="#171e2b" stroke-width="3" fill="none" />
+    <path d="M28 223H314M28 245H314" fill="none" />
+    <rect x="28" y="214" width="82" height="16" rx="3" fill="#a4b7ff" stroke="none" />
+    <rect x="116" y="214" width="103" height="16" rx="3" fill="#eff3f6" stroke="none" />
+    <rect x="226" y="214" width="88" height="16" rx="3" fill="#a4b7ff" opacity=".5" stroke="none" />
+    <path d="M164 206V251" stroke="#a4b7ff" stroke-width="3" fill="none" />
+    <path d="M354 108V234M314 140H354M354 108H383M354 172H383M354 234H383" stroke="#a8b7c7" fill="none" />
+    <rect x="383" y="90" width="69" height="36" rx="7" fill="#202b3b" />
+    <rect x="383" y="154" width="69" height="36" rx="7" fill="#202b3b" />
+    <rect x="383" y="216" width="69" height="36" rx="7" fill="#a4b7ff" stroke="none" />
+    <circle cx="402" cy="108" r="5" fill="#a4b7ff" stroke="none" />
+    <circle cx="402" cy="172" r="5" fill="#a4b7ff" stroke="none" />
+    <path d="M400 233L407 240L421 226" stroke="#171e2b" stroke-width="3" fill="none" />
+  </g>
+</svg>

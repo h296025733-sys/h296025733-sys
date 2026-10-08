@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260" role="img" aria-labelledby="title desc">
+  <title id="title">CREATOR TOOLS project illustration</title>
+  <desc id="desc">Symbolic structure illustration, not an application screenshot.</desc>
+  <rect width="1040" height="260" rx="20" fill="#171e2b" />
+  <g fill="#eff3f6" font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="52" font-size="14" letter-spacing="2" fill="#a8b7c7">03 / SELECTED WORK</text>
+    <text x="40" y="139" font-size="44" font-weight="700" letter-spacing="1">CREATOR TOOLS</text>
+    <text x="42" y="179" font-size="16" letter-spacing="3" fill="#a8b7c7">BROWSER &amp; UTILITIES</text>
+  </g>
+  <path d="M40 78H502M40 211H116" stroke="#354256" stroke-width="2" fill="none" />
+  <g stroke="#354256" stroke-width="2" transform="translate(553,-6) scale(.9)">
+    <rect x="28" y="82" width="424" height="158" rx="10" fill="#202b3b" />
+    <path d="M28 111H452M311 111V240" fill="none" />
+    <circle cx="45" cy="97" r="3" fill="#a8b7c7" stroke="none" />
+    <circle cx="58" cy="97" r="3" fill="#a8b7c7" stroke="none" />
+    <circle cx="71" cy="97" r="3" fill="#a4b7ff" stroke="none" />
+    <rect x="113" y="93" width="223" height="8" rx="4" fill="#354256" stroke="none" />
+    <rect x="44" y="127" width="100" height="95" rx="5" fill="#eff3f6" stroke="none" />
+    <path d="M84 155L112 174L84 193Z" fill="#a4b7ff" stroke="none" />
+    <rect x="160" y="129" width="112" height="7" rx="3" fill="#eff3f6" stroke="none" />
+    <path d="M160 150H289M160 161H273M160 172H282" fill="none" />
+    <rect x="160" y="194" width="57" height="20" rx="5" fill="#a4b7ff" stroke="none" />
+    <rect x="226" y="194" width="63" height="20" rx="5" fill="#171e2b" />
+    <rect x="328" y="127" width="107" height="26" rx="4" fill="#171e2b" />
+    <rect x="328" y="164" width="107" height="26" rx="4" fill="#171e2b" />
+    <rect x="328" y="201" width="107" height="26" rx="4" fill="#a4b7ff" stroke="none" />
+    <path d="M343 141H416M343 178H395" stroke="#a8b7c7" stroke-width="3" fill="none" />
+    <path d="M343 215H416" stroke="#171e2b" stroke-width="3" fill="none" />
+    <path d="M44 258H435" stroke="#a4b7ff" fill="none" />
+    <circle cx="44" cy="258" r="4" fill="#a4b7ff" stroke="none" />
+    <circle cx="177" cy="258" r="4" fill="#a4b7ff" stroke="none" />
+    <circle cx="311" cy="258" r="4" fill="#a4b7ff" stroke="none" />
+    <circle cx="435" cy="258" r="4" fill="#a4b7ff" stroke="none" />
+  </g>
+</svg>
