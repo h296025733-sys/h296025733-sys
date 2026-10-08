@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="#代表项目">代表项目</a> &nbsp; · &nbsp;
-  <a href="#前端与视觉实验">视觉实验</a> &nbsp; · &nbsp;
-  <a href="#更多作品">更多作品</a>
+  <a href="#user-content-代表项目">代表项目</a> &nbsp; · &nbsp;
+  <a href="#user-content-前端与视觉实验">视觉实验</a> &nbsp; · &nbsp;
+  <a href="#user-content-更多作品">更多作品</a>
 </p>
 
 我主要做影像创作工具、经营数据系统和浏览器扩展。项目大多从日常工作里长出来：一段素材怎么交付，一份报表怎样核对，一连串重复操作能不能少点几次。
