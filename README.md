@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="#user-content-代表项目">代表项目</a> &nbsp; · &nbsp;
-  <a href="#user-content-前端与视觉实验">视觉实验</a> &nbsp; · &nbsp;
   <a href="#user-content-更多作品">更多作品</a>
 </p>
 
@@ -69,20 +68,6 @@
   <p><code>Chrome MV3</code> <code>TypeScript</code> <code>浏览器语音识别</code></p>
   <p><a href="https://github.com/h296025733-sys/tiktok-daren-assistant#readme">项目说明</a> &nbsp; · &nbsp; <a href="https://github.com/h296025733-sys/tiktok-daren-assistant/blob/main/extension/src/content/session.ts">活动视频会话</a></p>
 
-## 前端与视觉实验
-
-<a href="https://github.com/h296025733-sys/em20-web-design-gallery">
-  <img src="assets/em20-cover.png" width="100%" alt="EM/20 项目原有封面：二十种网页视觉实验">
-</a>
-
-### [EM/20 · 二十种网页视觉实验 ↗](https://github.com/h296025733-sys/em20-web-design-gallery)
-
-同一组内容，换二十种表达。侘寂、报刊、工业蓝图、数据驾驶舱、瑞士网格、玻璃拟态……我想比较的是标题、图片、正文和数字如何改变阅读顺序，而不只是换一组颜色。
-
-二十套主题放在一个 React / TypeScript 项目里，共用目录与内容结构，分别打磨组件、字体层级和页面节奏。
-
-[查看主题与设计说明](https://github.com/h296025733-sys/em20-web-design-gallery#readme) &nbsp; · &nbsp; [另一个小实验：Terminal UI Playground](https://github.com/h296025733-sys/terminal-ui-playground) — 预设命令、逐行输出、键盘控制与终端界面的状态层级。
-
 ## 更多作品
 
 ### 影像与内容分析
@@ -112,7 +97,6 @@
 | [商品素材助手](https://github.com/h296025733-sys/amazon-tiktok-shop-media-downloader) | 识别当前商品与 SKU，排除评论和推荐图，归并图片版本并分类下载。 |
 | [轻存 · TikTok 下载器](https://github.com/h296025733-sys/qingcun-tiktok-downloader) | Windows 下载队列、文件整理、系统代理与逐项失败处理。 |
 | [抖音下载与口播字幕](https://github.com/h296025733-sys/douyin-download-subtitles) | 当前视频绑定、平台字幕预览与带时间戳的 SRT 导出。 |
-| [微信 ↔ Codex 文字聊天桥](https://github.com/h296025733-sys/wechat-codex-bridge) | 独立运行目录与可分享的安装、授权、网络诊断和维护模板。 |
 
 </details>
 
@@ -120,12 +104,10 @@
 <summary><b>早期项目 · 展开查看</b></summary>
 
 - [telecom-bid-scout-lite](https://github.com/h296025733-sys/telecom-bid-scout-lite)：通信招采线索接入、规则评分、可解释报告与飞书通知。
-- [openclaw-local-bootstrap-lite](https://github.com/h296025733-sys/openclaw-local-bootstrap-lite)：Windows 下的 OpenClaw 环境诊断与启动辅助。
 - [ai-xhs-video-workflow-mvp](https://github.com/h296025733-sys/ai-xhs-video-workflow-mvp)：短视频采集、BGM 替换与自动化调度工作流 MVP。
-- [my-crypto-tool](https://github.com/h296025733-sys/my-crypto-tool)：早期网页小工具。
 
 </details>
 
 ---
 
-<sub>公开仓库里保留了运行入口、设计说明、源码与检查记录。依赖账号、企业表格、模型或平台的功能，实际验证范围见各项目 README；前端实验中的演示内容也有单独说明。顶部是原创主题插画，代表项目配图是结构示意，EM/20 使用项目原有封面。</sub>
+<sub>项目 README 包含运行入口、设计说明与实际检查范围。顶部为主题插画，三幅项目配图为结构示意。</sub>
